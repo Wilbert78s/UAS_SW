@@ -1,0 +1,65 @@
+@prefix ed: <https://www.edge.fake/ed#> .
+
+<https://www.edge.fake/2012>
+  ed:pic "https://en.wikipedia.org/wiki/Dishonored#/media/File:Dishonored_box_art_Bethesda.jpg" ;
+  ed:title "Dishonored" ;
+  ed:developer "Arkane Studios" ;
+  ed:genre "Action-adventure" ;
+  ed:release "9 Oktober 2012" ;
+  ed:platform "Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One" .
+
+<https://www.edge.fake/2013>
+  ed:pic "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V" ;
+  ed:title "Grand Theft Auto V" ;
+  ed:developer "Rockstar North" ;
+  ed:genre "Action-adventure" ;
+  ed:release "17 September 2013" ;
+  ed:platform "Microsoft Windows, PlayStation 3, PlayStation 4, PlayStation 5, Xbox 360, Xbox One, Xbox Series X/S" .
+
+<https://www.edge.fake/2014>
+  ed:pic "https://en.wikipedia.org/wiki/Bayonetta_2#/media/File:Bayonetta_2_box_artwork.png" ;
+  ed:title "Bayonetta 2" ;
+  ed:developer "PlatinumGames" ;
+  ed:genre "Action-adventure" ;
+  ed:release "20 September 2014" ;
+  ed:platform "Nintendo Switch, Wii U" .
+
+<https://www.edge.fake/2015>
+  ed:pic "https://en.wikipedia.org/wiki/Bloodborne#/media/File:Bloodborne_Cover_Wallpaper.jpg" ;
+  ed:title "Bloodborne" ;
+  ed:developer "FromSoftware" ;
+  ed:genre "Action role-playing" ;
+  ed:release "24 Maret 2015" ;
+  ed:platform "PlayStation 4" .
+
+<https://www.edge.fake/2016>
+  ed:pic "https://en.wikipedia.org/wiki/The_Last_Guardian#/media/File:The_Last_Guardian_cover_art.jpg" ;
+  ed:title "The Last Guardian" ;
+  ed:developer "Japan Studio" ;
+  ed:genre "Action-adventure" ;
+  ed:release "6 December 2016" ;
+  ed:platform "PlayStation 4" .
+
+<https://www.edge.fake/2017>
+  ed:pic "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild#/media/File:The_Legend_of_Zelda_Breath_of_the_Wild.jpg" ;
+  ed:title "The Legend of Zelda: Breath of the Wild" ;
+  ed:developer "Nintendo EPD" ;
+  ed:genre "Action-adventure" ;
+  ed:release "3 Maret 2017" ;
+  ed:platform "Nintendo Switch, Wii U" .
+
+<https://www.edge.fake/2018>
+  ed:pic "https://en.wikipedia.org/wiki/Red_Dead_Redemption_2#/media/File:Red_Dead_Redemption_II.jpg" ;
+  ed:title "Red Dead Redemption 2" ;
+  ed:developer "Rockstar Studios" ;
+  ed:genre "Action-adventure" ;
+  ed:release "26 Oktober 2018" ;
+  ed:platform "Microsoft Windows, PlayStation 4, Stadia, Xbox One" .
+
+<https://www.edge.fake/2019>
+  ed:pic "https://en.wikipedia.org/wiki/Outer_Wilds#/media/File:Outer_Wilds_poster_(no_credits).jpg" ;
+  ed:title "Outer Wilds" ;
+  ed:developer "Mobius Digital" ;
+  ed:genre "Action-adventure" ;
+  ed:release "28 Mei 2019" ;
+  ed:platform "Microsoft Windows, Nintendo Switch, PlayStation 4, Xbox One" .
