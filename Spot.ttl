@@ -1,0 +1,73 @@
+@prefix gs: <https://www.GameSpot.fake/gs#> .
+
+<https://www.GameSpot.fake/2012>
+  gs:pic "https://cdn.file.org.br/That-Game-Company-%E2%80%93-Journey-1.jpg" ;
+  gs:title "Journey" ;
+  gs:developer "Thatgamecompany" ;
+  gs:genre "Adventure" ;
+  gs:release "13 Maret 2012" ;
+  gs:platform "iOS, Microsoft Windows, PlayStation 3, PlayStation 4" .
+
+<https://www.GameSpot.fake/2013>
+  gs:pic "https://d26bwjyd9l0e3m.cloudfront.net/wp-content/uploads/2013/11/The-Legend-of-Zelda-Featured.jpg" ;
+  gs:title "The Legend of Zelda: A Link Between Worlds" ;
+  gs:developer "Nintendo EAD" ;
+  gs:genre "Action-adventure" ;
+  gs:release "22 November 2013" ;
+  gs:platform "Nintendo 3DS" .
+
+<https://www.GameSpot.fake/2014>
+  gs:pic "https://s.kaskus.id/r480x480/images/fjb/2016/07/05/shadow_of_mordor_goty_steam_5597884_1467704569.jpg" ;
+  gs:title "Middle-earth: Shadow of Mordor" ;
+  gs:developer "Monolith Productions" ;
+  gs:genre "Action-adventure" ;
+  gs:release "30 September 2014" ;
+  gs:platform "Linux, Microsoft Windows, OS X, PlayStation 3, PlayStation 4, Xbox 360, Xbox One" .
+
+<https://www.GameSpot.fake/2015>
+  gs:pic "https://image.api.playstation.com/vulcan/img/rnd/202009/2913/TQKAd8U6hnIFQIIcz6qnFh8C.png?w=440" ;
+  gs:title "The Witcher 3: Wild Hunt" ;
+  gs:developer "CD Projekt Red" ;
+  gs:genre "Action role-playing" ;
+  gs:release "19 Mei 2015" ;
+  gs:platform "Microsoft Windows, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S" .
+
+<https://www.GameSpot.fake/2016>
+  gs:pic "https://s1.gaming-cdn.com/images/products/2208/orig/game-battle-net-overwatch-cover.jpg" ;
+  gs:title "Overwatch" ;
+  gs:developer "Blizzard Entertainment" ;
+  gs:genre "First-person shooter" ;
+  gs:release "24 Mei 2016" ;
+  gs:platform "Microsoft Windows, Nintendo Switch, PlayStation 4, Xbox One" .
+
+<https://www.GameSpot.fake/2017>
+  gs:pic "https://socs.binus.ac.id/files/2020/06/yg-6.png" ;
+  gs:title "The Legend of Zelda: Breath of the Wild" ;
+  gs:developer "Nintendo EPD" ;
+  gs:genre "Action-adventure" ;
+  gs:release "3 Maret 2017" ;
+  gs:platform "Nintendo Switch, Wii U" .
+
+<https://www.GameSpot.fake/2018>
+  gs:pic "https://img.tek.id/img/content/2019/10/14/21437/ingin-main-red-dead-redemption-ii-di-pc-cek-dulu-spesifikasi-minimalnya-9ecio7wqOE.jpg" ;
+  gs:title "Red Dead Redemption 2" ;
+  gs:developer "Rockstar Studios" ;
+  gs:genre "Action-adventure" ;
+  gs:release "26 Oktober 2018" ;
+  gs:platform "Microsoft Windows, PlayStation 4, Stadia, Xbox One" .
+
+<https://www.GameSpot.fake/2019>
+  gs:pic "https://www.yasir252.com/wp-content/uploads/2019/04/sekiro-shadows-die-twice-full-version-pc-game-download.jpg" ;
+  gs:title "Sekiro: Shadows Die Twice" ;
+  gs:developer "FromSoftware" ;
+  gs:genre "Action-adventure" ;
+  gs:release "22 Maret 2019" ;
+  gs:platform "Microsoft Windows, PlayStation 4, Stadia, Xbox One" .
+
+<https://www.GameSpot.fake/2020>
+  gs:pic "https://www.dewa.gg/wp-content/uploads/2020/05/capsule_616x353.jpg" ;
+  gs:title "Half-Life: Alyx" ;
+  gs:developer "Valve" ;
+  gs:genre "First-person shooter" ;
+  gs:release "23 Maret 2020" ;
+  gs:platform "Linux, Microsoft Windows" .

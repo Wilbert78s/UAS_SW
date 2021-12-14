@@ -1,0 +1,65 @@
+@prefix gr: <https://www.GamesRadar.fake/gr#> .
+
+<https://www.GamesRadar.fake/2012>
+  gr:pic "https://i0.wp.com/popculture.id/wp-content/uploads/2018/08/GbW0PHP48cRRv3wP.jpg?fit=768%2C432&ssl=1" ;
+  gr:title "The Walking Dead" ;
+  gr:developer "Telltale Games" ;
+  gr:genre "Graphic adventure" ;
+  gr:release "24 April 2012" ;
+  gr:platform "Android, iOS, Kindle Fire HDX, Linux, Microsoft Windows, Nintendo Switch, Ouya, PlayStation 3, PlayStation 4, PlayStation Vita, Xbox 360, Xbox One" .
+
+<https://www.GamesRadar.fake/2013>
+  gr:pic "https://lh3.googleusercontent.com/proxy/wkCgGHJxNdffh1raWsPe_sRULAa6Z1Tgo0mHTij_kQ-ci0_jrRlgkFhCeEzTv-6vDACewPVB540hfyMg2yEf0HEusUDn4NsUTcXKohR0lfZXboaC48WnkLevkqxS-c0O99vrOA" ;
+  gr:title "The Last of Us" ;
+  gr:developer "Naughty Dog" ;
+  gr:genre "Action-adventure" ;
+  gr:release "14 Juni 2013" ;
+  gr:platform "PlayStation 3, PlayStation 4" .
+
+<https://www.GamesRadar.fake/2014>
+  gr:pic "https://store-images.s-microsoft.com/image/apps.56606.65506807380982023.0e494b93-8e27-4f0d-aa29-8b32bb48a45b.4c8733ca-d6ee-4a8b-baf2-e6abed568d2a" ;
+  gr:title "Destiny" ;
+  gr:developer "Bungie" ;
+  gr:genre "First-person shooter" ;
+  gr:release "9 September 2014" ;
+  gr:platform "PlayStation 3, PlayStation 4, Xbox 360, Xbox One" .
+
+<https://www.GamesRadar.fake/2015>
+  gr:pic "https://sobatgame.com/wp-content/uploads/2019/08/Metal-Gear-Solid-V-1.jpg" ;
+  gr:title "Metal Gear Solid V: The Phantom Pain" ;
+  gr:developer "Kojima Productions" ;
+  gr:genre "Action-adventure" ;
+  gr:release "1 September 2015" ;
+  gr:platform "Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S" .
+
+<https://www.GamesRadar.fake/2016>
+  gr:pic "https://s2.gaming-cdn.com/images/products/1273/orig/game-origin-titanfall-2-cover.jpg" ;
+  gr:title "Titanfall 2" ;
+  gr:developer "Respawn Entertainment" ;
+  gr:genre "Action-adventure" ;
+  gr:release "28 Oktober 2016" ;
+  gr:platform "Microsoft Windows, PlayStation 4, Xbox One" .
+
+<https://www.GamesRadar.fake/2017>
+  gr:pic "https://socs.binus.ac.id/files/2020/06/yg-6.png" ;
+  gr:title "The Legend of Zelda: Breath of the Wild" ;
+  gr:developer "Nintendo EPD" ;
+  gr:genre "Action-adventure" ;
+  gr:release "3 Maret 2017" ;
+  gr:platform "Nintendo Switch, Wii U" .
+
+<https://www.GamesRadar.fake/2018>
+  gr:pic "https://cdn-uploads.gameblog.fr/images/actu/full/75142_gb_news.jpg" ;
+  gr:title "God of War" ;
+  gr:developer "Santa Monica Studio" ;
+  gr:genre "Action-adventure" ;
+  gr:release "20 April 2018" ;
+  gr:platform "Microsoft Windows, PlayStation 4" .
+
+<https://www.GamesRadar.fake/2019>
+  gr:pic "https://cdn.akamai.steamstatic.com/steam/apps/870780/capsule_616x353.jpg?t=1636733774" ;
+  gr:title "Control" ;
+  gr:developer "Remedy Entertainment" ;
+  gr:genre "Action-adventure" ;
+  gr:release "27 Agustus 2019" ;
+  gr:platform "Luna, Microsoft Windows, Nintendo Switch, PlayStation 4, PlayStation 5, Stadia, Xbox One, Xbox Series X/S" .
