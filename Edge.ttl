@@ -1,7 +1,7 @@
 @prefix ed: <https://www.edge.fake/ed#> .
 
 <https://www.edge.fake/2012>
-  ed:pic "https://upload.wikimedia.org/wikipedia/en/6/65/Dishonored_box_art_Bethesda.jpg" ;
+  ed:pic "https://en.wikipedia.org/wiki/Dishonored#/media/File:Dishonored_box_art_Bethesda.jpg" ;
   ed:title "Dishonored" ;
   ed:developer "Arkane Studios" ;
   ed:genre "Action-adventure" ;
